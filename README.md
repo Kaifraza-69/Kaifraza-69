@@ -1,6 +1,5 @@
 Hi, I am Md Kaif Raza. I am student of DSAI 
-at IIT BHILAI. I love goin to gym and calesthenices 
-Sure! Here’s a paragraph you can use for your GitHub profile:
+at IIT BHILAI. I love goin to gym and I am a bit good in calisthenics.
 
 ---
 
@@ -20,5 +19,3 @@ to collaborate or discuss ideas. Let’s
 build something amazing together! 🚀
 
 ---
-
-This should give a nice overview of your enthusiasm and invite others to connect with you.
